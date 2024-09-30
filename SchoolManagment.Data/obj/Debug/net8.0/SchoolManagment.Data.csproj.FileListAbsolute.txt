@@ -1,0 +1,31 @@
+C:\Users\Youssif\source\repos\SchoolManagmentCleanArchitecture\SchoolManagment.Data\bin\Debug\net8.0\SchoolManagment.Data.deps.json
+C:\Users\Youssif\source\repos\SchoolManagmentCleanArchitecture\SchoolManagment.Data\bin\Debug\net8.0\SchoolManagment.Data.dll
+C:\Users\Youssif\source\repos\SchoolManagmentCleanArchitecture\SchoolManagment.Data\bin\Debug\net8.0\SchoolManagment.Data.pdb
+C:\Users\Youssif\source\repos\SchoolManagmentCleanArchitecture\SchoolManagment.Data\obj\Debug\net8.0\SchoolManagment.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssif\source\repos\SchoolManagmentCleanArchitecture\SchoolManagment.Data\obj\Debug\net8.0\SchoolManagment.Data.AssemblyInfoInputs.cache
+C:\Users\Youssif\source\repos\SchoolManagmentCleanArchitecture\SchoolManagment.Data\obj\Debug\net8.0\SchoolManagment.Data.AssemblyInfo.cs
+C:\Users\Youssif\source\repos\SchoolManagmentCleanArchitecture\SchoolManagment.Data\obj\Debug\net8.0\SchoolManagment.Data.csproj.CoreCompileInputs.cache
+C:\Users\Youssif\source\repos\SchoolManagmentCleanArchitecture\SchoolManagment.Data\obj\Debug\net8.0\SchoolManagment.Data.sourcelink.json
+C:\Users\Youssif\source\repos\SchoolManagmentCleanArchitecture\SchoolManagment.Data\obj\Debug\net8.0\SchoolManagment.Data.dll
+C:\Users\Youssif\source\repos\SchoolManagmentCleanArchitecture\SchoolManagment.Data\obj\Debug\net8.0\refint\SchoolManagment.Data.dll
+C:\Users\Youssif\source\repos\SchoolManagmentCleanArchitecture\SchoolManagment.Data\obj\Debug\net8.0\SchoolManagment.Data.pdb
+C:\Users\Youssif\source\repos\SchoolManagmentCleanArchitecture\SchoolManagment.Data\obj\Debug\net8.0\ref\SchoolManagment.Data.dll
+D:\asp .net\ProAPI\School-Managament-System-main\SchoolManagment.Data\bin\Debug\net8.0\SchoolManagment.Data.deps.json
+D:\asp .net\ProAPI\School-Managament-System-main\SchoolManagment.Data\bin\Debug\net8.0\SchoolManagment.Data.dll
+D:\asp .net\ProAPI\School-Managament-System-main\SchoolManagment.Data\bin\Debug\net8.0\SchoolManagment.Data.pdb
+D:\asp .net\ProAPI\School-Managament-System-main\SchoolManagment.Data\bin\Debug\net8.0\Ar\SchoolManagment.Data.resources.dll
+D:\asp .net\ProAPI\School-Managament-System-main\SchoolManagment.Data\bin\Debug\net8.0\En\SchoolManagment.Data.resources.dll
+D:\asp .net\ProAPI\School-Managament-System-main\SchoolManagment.Data\obj\Debug\net8.0\SchoolManagment.Data.csproj.AssemblyReference.cache
+D:\asp .net\ProAPI\School-Managament-System-main\SchoolManagment.Data\obj\Debug\net8.0\SchoolManagment.Data.Resources.SharedResource.Ar.resources
+D:\asp .net\ProAPI\School-Managament-System-main\SchoolManagment.Data\obj\Debug\net8.0\SchoolManagment.Data.Resources.SharedResource.En.resources
+D:\asp .net\ProAPI\School-Managament-System-main\SchoolManagment.Data\obj\Debug\net8.0\SchoolManagment.Data.csproj.GenerateResource.cache
+D:\asp .net\ProAPI\School-Managament-System-main\SchoolManagment.Data\obj\Debug\net8.0\SchoolManagment.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp .net\ProAPI\School-Managament-System-main\SchoolManagment.Data\obj\Debug\net8.0\SchoolManagment.Data.AssemblyInfoInputs.cache
+D:\asp .net\ProAPI\School-Managament-System-main\SchoolManagment.Data\obj\Debug\net8.0\SchoolManagment.Data.AssemblyInfo.cs
+D:\asp .net\ProAPI\School-Managament-System-main\SchoolManagment.Data\obj\Debug\net8.0\SchoolManagment.Data.csproj.CoreCompileInputs.cache
+D:\asp .net\ProAPI\School-Managament-System-main\SchoolManagment.Data\obj\Debug\net8.0\Ar\SchoolManagment.Data.resources.dll
+D:\asp .net\ProAPI\School-Managament-System-main\SchoolManagment.Data\obj\Debug\net8.0\En\SchoolManagment.Data.resources.dll
+D:\asp .net\ProAPI\School-Managament-System-main\SchoolManagment.Data\obj\Debug\net8.0\SchoolManagment.Data.dll
+D:\asp .net\ProAPI\School-Managament-System-main\SchoolManagment.Data\obj\Debug\net8.0\refint\SchoolManagment.Data.dll
+D:\asp .net\ProAPI\School-Managament-System-main\SchoolManagment.Data\obj\Debug\net8.0\SchoolManagment.Data.pdb
+D:\asp .net\ProAPI\School-Managament-System-main\SchoolManagment.Data\obj\Debug\net8.0\ref\SchoolManagment.Data.dll
